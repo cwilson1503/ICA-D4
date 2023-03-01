@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(187, 187, 161);
+
+    cursor: not-allowed;
+}
+
+img{
+    border-radius: 40%;
+    border-style: ridge;
+    border-color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+p1{
+    font-family:"Times New Roman", serif;
+}
+    
+
+
